@@ -12,8 +12,4 @@
         <PackageReference Include="Aspire.Hosting" Version="8.0.0-preview.1.23557.2"/>
     </ItemGroup>
 
-    <ItemGroup>
-      <ProjectReference Include="..\..\Aspire.Demo.Web\Aspire.Demo.Web.csproj" />
-    </ItemGroup>
-
 </Project>
