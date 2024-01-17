@@ -16,10 +16,12 @@ using System.Reflection;
     "2.23619.3\\tools\\ext")]
 [assembly: System.Reflection.AssemblyMetadata("dcpbinpath", "C:\\Program Files\\dotnet\\packs\\Aspire.Hosting.Orchestration.win-x64\\8.0.0-preview." +
     "2.23619.3\\tools\\ext\\bin")]
+[assembly: System.Reflection.AssemblyMetadata("apphostprojectpath", "C:\\Projects\\MyGit\\Aspire.Demo\\Aspire.Demo.AspireApp\\Aspire.Demo.AspireApp.AppHost" +
+    "")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("Aspire.Demo.AspireApp.AppHost")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d48ea64516e59c6b4109883067203cec9ea33325")]
 [assembly: System.Reflection.AssemblyProductAttribute("Aspire.Demo.AspireApp.AppHost")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Aspire.Demo.AspireApp.AppHost")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

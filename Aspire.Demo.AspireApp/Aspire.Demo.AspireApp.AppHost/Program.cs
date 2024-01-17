@@ -1,4 +1,8 @@
 var builder = DistributedApplication.CreateBuilder(args);
-builder.AddProject<Projects.Aspire_Demo_Web>("web");
+
+
+var api = builder.AddProject<Projects.Api>("apiservice");
+
+var web = builder.AddProject<Projects.Web>("webservice");
 
 builder.Build().Run();

@@ -599,11 +599,11 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.ServiceDiscovery/8.0.0-preview.1.23557.2": {
+      "Microsoft.Extensions.ServiceDiscovery/8.0.0-preview.2.23619.3": {
         "type": "package",
         "dependencies": {
           "Microsoft.Extensions.Http": "8.0.0",
-          "Microsoft.Extensions.ServiceDiscovery.Abstractions": "8.0.0-preview.1.23557.2"
+          "Microsoft.Extensions.ServiceDiscovery.Abstractions": "8.0.0-preview.2.23619.3"
         },
         "compile": {
           "lib/net8.0/Microsoft.Extensions.ServiceDiscovery.dll": {
@@ -616,7 +616,7 @@
           }
         }
       },
-      "Microsoft.Extensions.ServiceDiscovery.Abstractions/8.0.0-preview.1.23557.2": {
+      "Microsoft.Extensions.ServiceDiscovery.Abstractions/8.0.0-preview.2.23619.3": {
         "type": "package",
         "dependencies": {
           "Microsoft.Extensions.Configuration.Abstractions": "8.0.0",
@@ -1874,33 +1874,35 @@
         "microsoft.extensions.resilience.nuspec"
       ]
     },
-    "Microsoft.Extensions.ServiceDiscovery/8.0.0-preview.1.23557.2": {
-      "sha512": "rNQJ5wNITnvLTQhSj9ORH56WOnFRBfS8IrJMbC8I9O+MOJTqODOxwIirxgfqKJeX2eoZtaUIluSFbDfwJtLL0g==",
+    "Microsoft.Extensions.ServiceDiscovery/8.0.0-preview.2.23619.3": {
+      "sha512": "mp7FYTjYaVG6PAFaHpMT1gggAbUk6tMOo6tPv6lakexTmSZZtW79c+wmeMoh7MCVkwBWmaVzMzy/OEL6tLwyHg==",
       "type": "package",
-      "path": "microsoft.extensions.servicediscovery/8.0.0-preview.1.23557.2",
+      "path": "microsoft.extensions.servicediscovery/8.0.0-preview.2.23619.3",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "Icon.png",
+        "README.md",
         "THIRD-PARTY-NOTICES.TXT",
         "lib/net8.0/Microsoft.Extensions.ServiceDiscovery.dll",
         "lib/net8.0/Microsoft.Extensions.ServiceDiscovery.xml",
-        "microsoft.extensions.servicediscovery.8.0.0-preview.1.23557.2.nupkg.sha512",
+        "microsoft.extensions.servicediscovery.8.0.0-preview.2.23619.3.nupkg.sha512",
         "microsoft.extensions.servicediscovery.nuspec"
       ]
     },
-    "Microsoft.Extensions.ServiceDiscovery.Abstractions/8.0.0-preview.1.23557.2": {
-      "sha512": "CAKEkVhJUckxuZip44bVUIpMrDnnPBln0OgLa9B4AQj6rCpXXTMseOxlSi2vabjgKAlhjrUu7hhtLEIH1/4fwg==",
+    "Microsoft.Extensions.ServiceDiscovery.Abstractions/8.0.0-preview.2.23619.3": {
+      "sha512": "Jw2W96ypbS/aeRIqwpyiGX53anS16LrYEuBeJ0h3b911K1XzOLG2JBDEwre2qfBK+VKLe0vSzu0WVODdugAGDg==",
       "type": "package",
-      "path": "microsoft.extensions.servicediscovery.abstractions/8.0.0-preview.1.23557.2",
+      "path": "microsoft.extensions.servicediscovery.abstractions/8.0.0-preview.2.23619.3",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "Icon.png",
+        "README.md",
         "THIRD-PARTY-NOTICES.TXT",
         "lib/net8.0/Microsoft.Extensions.ServiceDiscovery.Abstractions.dll",
         "lib/net8.0/Microsoft.Extensions.ServiceDiscovery.Abstractions.xml",
-        "microsoft.extensions.servicediscovery.abstractions.8.0.0-preview.1.23557.2.nupkg.sha512",
+        "microsoft.extensions.servicediscovery.abstractions.8.0.0-preview.2.23619.3.nupkg.sha512",
         "microsoft.extensions.servicediscovery.abstractions.nuspec"
       ]
     },
@@ -2409,7 +2411,7 @@
   "projectFileDependencyGroups": {
     "net8.0": [
       "Microsoft.Extensions.Http.Resilience >= 8.0.0",
-      "Microsoft.Extensions.ServiceDiscovery >= 8.0.0-preview.1.23557.2",
+      "Microsoft.Extensions.ServiceDiscovery >= 8.0.0-preview.2.23619.3",
       "OpenTelemetry.Exporter.OpenTelemetryProtocol >= 1.7.0-alpha.1",
       "OpenTelemetry.Extensions.Hosting >= 1.7.0-alpha.1",
       "OpenTelemetry.Instrumentation.AspNetCore >= 1.6.0-beta.2",
@@ -2470,7 +2472,7 @@
           },
           "Microsoft.Extensions.ServiceDiscovery": {
             "target": "Package",
-            "version": "[8.0.0-preview.1.23557.2, )"
+            "version": "[8.0.0-preview.2.23619.3, )"
           },
           "OpenTelemetry.Exporter.OpenTelemetryProtocol": {
             "target": "Package",
@@ -2516,7 +2518,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

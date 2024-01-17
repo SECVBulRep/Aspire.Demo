@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "H/LbKz7QwJmFgfrr7xQUuRm1wa59+DOI5Qo+wdBF53diRifFNixG09Ikn3q+qNPiLfsroDT3zWCn6NJ8wHD9JQ==",
+  "dgSpecHash": "IFmBHkdB5LXalonZsm5K8I3m093wBBcy5v9s/HVEmTefEHNlWaJOy/3fyOxR+CiUCBM1e0aT9wNDMpzCFXSYYw==",
   "success": true,
   "projectFilePath": "C:\\Projects\\MyGit\\Aspire.Demo\\Aspire.Demo.AspireApp\\Aspire.Demo.AspireApp.ServiceDefaults\\Aspire.Demo.AspireApp.ServiceDefaults.csproj",
   "expectedPackageFiles": [
@@ -35,8 +35,8 @@
     "C:\\Users\\Bulat\\.nuget\\packages\\microsoft.extensions.options.configurationextensions\\8.0.0\\microsoft.extensions.options.configurationextensions.8.0.0.nupkg.sha512",
     "C:\\Users\\Bulat\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
     "C:\\Users\\Bulat\\.nuget\\packages\\microsoft.extensions.resilience\\8.0.0\\microsoft.extensions.resilience.8.0.0.nupkg.sha512",
-    "C:\\Users\\Bulat\\.nuget\\packages\\microsoft.extensions.servicediscovery\\8.0.0-preview.1.23557.2\\microsoft.extensions.servicediscovery.8.0.0-preview.1.23557.2.nupkg.sha512",
-    "C:\\Users\\Bulat\\.nuget\\packages\\microsoft.extensions.servicediscovery.abstractions\\8.0.0-preview.1.23557.2\\microsoft.extensions.servicediscovery.abstractions.8.0.0-preview.1.23557.2.nupkg.sha512",
+    "C:\\Users\\Bulat\\.nuget\\packages\\microsoft.extensions.servicediscovery\\8.0.0-preview.2.23619.3\\microsoft.extensions.servicediscovery.8.0.0-preview.2.23619.3.nupkg.sha512",
+    "C:\\Users\\Bulat\\.nuget\\packages\\microsoft.extensions.servicediscovery.abstractions\\8.0.0-preview.2.23619.3\\microsoft.extensions.servicediscovery.abstractions.8.0.0-preview.2.23619.3.nupkg.sha512",
     "C:\\Users\\Bulat\\.nuget\\packages\\microsoft.extensions.telemetry\\8.0.0\\microsoft.extensions.telemetry.8.0.0.nupkg.sha512",
     "C:\\Users\\Bulat\\.nuget\\packages\\microsoft.extensions.telemetry.abstractions\\8.0.0\\microsoft.extensions.telemetry.abstractions.8.0.0.nupkg.sha512",
     "C:\\Users\\Bulat\\.nuget\\packages\\microsoft.io.recyclablememorystream\\2.3.2\\microsoft.io.recyclablememorystream.2.3.2.nupkg.sha512",

@@ -7,6 +7,9 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddRazorComponents()
     .AddInteractiveServerComponents();
 
+builder.AddServiceDefaults();
+
+
 builder.Services.AddHttpClient<WeatherApiClient>(opt =>
 {
     opt.BaseAddress = new Uri("http://localhost:5223/");

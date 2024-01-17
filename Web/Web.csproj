@@ -13,4 +13,8 @@
       </Content>
     </ItemGroup>
 
+    <ItemGroup>
+      <ProjectReference Include="..\Aspire.Demo.AspireApp\Aspire.Demo.AspireApp.ServiceDefaults\Aspire.Demo.AspireApp.ServiceDefaults.csproj" />
+    </ItemGroup>
+
 </Project>

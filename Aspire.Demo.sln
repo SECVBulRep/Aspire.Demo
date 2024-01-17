@@ -4,6 +4,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web", "Web\Web.csproj", "{2
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Api", "Api\Api.csproj", "{24F6F84E-942F-4603-95F8-84D0E3C906D9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aspire.Demo.AspireApp.AppHost", "Aspire.Demo.AspireApp\Aspire.Demo.AspireApp.AppHost\Aspire.Demo.AspireApp.AppHost.csproj", "{1DE635F1-4EEB-441E-B7DF-BFDE319A65EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aspire.Demo.AspireApp.ServiceDefaults", "Aspire.Demo.AspireApp\Aspire.Demo.AspireApp.ServiceDefaults\Aspire.Demo.AspireApp.ServiceDefaults.csproj", "{59EB85CF-31A7-412C-B0F6-AB462B9E408B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -20,5 +24,13 @@ Global
 		{24F6F84E-942F-4603-95F8-84D0E3C906D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{24F6F84E-942F-4603-95F8-84D0E3C906D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{24F6F84E-942F-4603-95F8-84D0E3C906D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DE635F1-4EEB-441E-B7DF-BFDE319A65EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DE635F1-4EEB-441E-B7DF-BFDE319A65EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DE635F1-4EEB-441E-B7DF-BFDE319A65EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DE635F1-4EEB-441E-B7DF-BFDE319A65EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59EB85CF-31A7-412C-B0F6-AB462B9E408B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59EB85CF-31A7-412C-B0F6-AB462B9E408B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59EB85CF-31A7-412C-B0F6-AB462B9E408B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59EB85CF-31A7-412C-B0F6-AB462B9E408B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

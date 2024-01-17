@@ -9,7 +9,7 @@
       "Aspire.Demo.AspireApp.ServiceDefaults/1.0.0": {
         "dependencies": {
           "Microsoft.Extensions.Http.Resilience": "8.0.0",
-          "Microsoft.Extensions.ServiceDiscovery": "8.0.0-preview.1.23557.2",
+          "Microsoft.Extensions.ServiceDiscovery": "8.0.0-preview.2.23619.3",
           "OpenTelemetry.Exporter.OpenTelemetryProtocol": "1.7.0-alpha.1",
           "OpenTelemetry.Extensions.Hosting": "1.7.0-alpha.1",
           "OpenTelemetry.Instrumentation.AspNetCore": "1.6.0-beta.2",
@@ -279,19 +279,19 @@
           }
         }
       },
-      "Microsoft.Extensions.ServiceDiscovery/8.0.0-preview.1.23557.2": {
+      "Microsoft.Extensions.ServiceDiscovery/8.0.0-preview.2.23619.3": {
         "dependencies": {
           "Microsoft.Extensions.Http": "8.0.0",
-          "Microsoft.Extensions.ServiceDiscovery.Abstractions": "8.0.0-preview.1.23557.2"
+          "Microsoft.Extensions.ServiceDiscovery.Abstractions": "8.0.0-preview.2.23619.3"
         },
         "runtime": {
           "lib/net8.0/Microsoft.Extensions.ServiceDiscovery.dll": {
             "assemblyVersion": "8.0.0.0",
-            "fileVersion": "8.0.23.55702"
+            "fileVersion": "8.0.23.61903"
           }
         }
       },
-      "Microsoft.Extensions.ServiceDiscovery.Abstractions/8.0.0-preview.1.23557.2": {
+      "Microsoft.Extensions.ServiceDiscovery.Abstractions/8.0.0-preview.2.23619.3": {
         "dependencies": {
           "Microsoft.Extensions.Configuration.Abstractions": "8.0.0",
           "Microsoft.Extensions.Configuration.Binder": "8.0.0",
@@ -304,7 +304,7 @@
         "runtime": {
           "lib/net8.0/Microsoft.Extensions.ServiceDiscovery.Abstractions.dll": {
             "assemblyVersion": "8.0.0.0",
-            "fileVersion": "8.0.23.55702"
+            "fileVersion": "8.0.23.61903"
           }
         }
       },
@@ -722,19 +722,19 @@
       "path": "microsoft.extensions.resilience/8.0.0",
       "hashPath": "microsoft.extensions.resilience.8.0.0.nupkg.sha512"
     },
-    "Microsoft.Extensions.ServiceDiscovery/8.0.0-preview.1.23557.2": {
+    "Microsoft.Extensions.ServiceDiscovery/8.0.0-preview.2.23619.3": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-rNQJ5wNITnvLTQhSj9ORH56WOnFRBfS8IrJMbC8I9O+MOJTqODOxwIirxgfqKJeX2eoZtaUIluSFbDfwJtLL0g==",
-      "path": "microsoft.extensions.servicediscovery/8.0.0-preview.1.23557.2",
-      "hashPath": "microsoft.extensions.servicediscovery.8.0.0-preview.1.23557.2.nupkg.sha512"
+      "sha512": "sha512-mp7FYTjYaVG6PAFaHpMT1gggAbUk6tMOo6tPv6lakexTmSZZtW79c+wmeMoh7MCVkwBWmaVzMzy/OEL6tLwyHg==",
+      "path": "microsoft.extensions.servicediscovery/8.0.0-preview.2.23619.3",
+      "hashPath": "microsoft.extensions.servicediscovery.8.0.0-preview.2.23619.3.nupkg.sha512"
     },
-    "Microsoft.Extensions.ServiceDiscovery.Abstractions/8.0.0-preview.1.23557.2": {
+    "Microsoft.Extensions.ServiceDiscovery.Abstractions/8.0.0-preview.2.23619.3": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-CAKEkVhJUckxuZip44bVUIpMrDnnPBln0OgLa9B4AQj6rCpXXTMseOxlSi2vabjgKAlhjrUu7hhtLEIH1/4fwg==",
-      "path": "microsoft.extensions.servicediscovery.abstractions/8.0.0-preview.1.23557.2",
-      "hashPath": "microsoft.extensions.servicediscovery.abstractions.8.0.0-preview.1.23557.2.nupkg.sha512"
+      "sha512": "sha512-Jw2W96ypbS/aeRIqwpyiGX53anS16LrYEuBeJ0h3b911K1XzOLG2JBDEwre2qfBK+VKLe0vSzu0WVODdugAGDg==",
+      "path": "microsoft.extensions.servicediscovery.abstractions/8.0.0-preview.2.23619.3",
+      "hashPath": "microsoft.extensions.servicediscovery.abstractions.8.0.0-preview.2.23619.3.nupkg.sha512"
     },
     "Microsoft.Extensions.Telemetry/8.0.0": {
       "type": "package",
