@@ -50,6 +50,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Aspire.StackExchange.Redis.DistributedCaching": {
+              "target": "Package",
+              "version": "[8.0.0-preview.2.23619.3, )"
+            },
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[8.0.0, )"

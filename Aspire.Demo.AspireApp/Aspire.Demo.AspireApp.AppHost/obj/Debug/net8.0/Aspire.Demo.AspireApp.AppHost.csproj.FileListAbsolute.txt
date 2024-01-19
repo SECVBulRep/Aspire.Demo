@@ -118,3 +118,5 @@ C:\Projects\MyGit\Aspire.Demo\Aspire.Demo.AspireApp\Aspire.Demo.AspireApp.AppHos
 C:\Projects\MyGit\Aspire.Demo\Aspire.Demo.AspireApp\Aspire.Demo.AspireApp.AppHost\bin\Debug\net8.0\OpenTelemetry.Instrumentation.StackExchangeRedis.dll
 C:\Projects\MyGit\Aspire.Demo\Aspire.Demo.AspireApp\Aspire.Demo.AspireApp.AppHost\bin\Debug\net8.0\Pipelines.Sockets.Unofficial.dll
 C:\Projects\MyGit\Aspire.Demo\Aspire.Demo.AspireApp\Aspire.Demo.AspireApp.AppHost\bin\Debug\net8.0\StackExchange.Redis.dll
+C:\Projects\MyGit\Aspire.Demo\Aspire.Demo.AspireApp\Aspire.Demo.AspireApp.AppHost\bin\Debug\net8.0\Aspire.StackExchange.Redis.DistributedCaching.dll
+C:\Projects\MyGit\Aspire.Demo\Aspire.Demo.AspireApp\Aspire.Demo.AspireApp.AppHost\bin\Debug\net8.0\Microsoft.Extensions.Caching.StackExchangeRedis.dll
