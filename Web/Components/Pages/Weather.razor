@@ -1,9 +1,10 @@
 ﻿@page "/weather"
 @using Web.Clients
+@using Microsoft.AspNetCore.OutputCaching
 @inject WeatherApiClient WeatherApiClient;
 
 @attribute [StreamRendering]
-
+@attribute [OutputCache(Duration = 5)]
 <PageTitle>Weather</PageTitle>
 
 <h1>Weather</h1>

@@ -111,3 +111,10 @@ C:\Projects\MyGit\Aspire.Demo\Aspire.Demo.AspireApp\Aspire.Demo.AspireApp.AppHos
 C:\Projects\MyGit\Aspire.Demo\Aspire.Demo.AspireApp\Aspire.Demo.AspireApp.AppHost\obj\Debug\net8.0\Aspire.Demo.AspireApp.AppHost.pdb
 C:\Projects\MyGit\Aspire.Demo\Aspire.Demo.AspireApp\Aspire.Demo.AspireApp.AppHost\obj\Debug\net8.0\Aspire.Demo.AspireApp.AppHost.genruntimeconfig.cache
 C:\Projects\MyGit\Aspire.Demo\Aspire.Demo.AspireApp\Aspire.Demo.AspireApp.AppHost\obj\Debug\net8.0\ref\Aspire.Demo.AspireApp.AppHost.dll
+C:\Projects\MyGit\Aspire.Demo\Aspire.Demo.AspireApp\Aspire.Demo.AspireApp.AppHost\bin\Debug\net8.0\Aspire.StackExchange.Redis.dll
+C:\Projects\MyGit\Aspire.Demo\Aspire.Demo.AspireApp\Aspire.Demo.AspireApp.AppHost\bin\Debug\net8.0\Aspire.StackExchange.Redis.OutputCaching.dll
+C:\Projects\MyGit\Aspire.Demo\Aspire.Demo.AspireApp\Aspire.Demo.AspireApp.AppHost\bin\Debug\net8.0\HealthChecks.Redis.dll
+C:\Projects\MyGit\Aspire.Demo\Aspire.Demo.AspireApp\Aspire.Demo.AspireApp.AppHost\bin\Debug\net8.0\Microsoft.AspNetCore.OutputCaching.StackExchangeRedis.dll
+C:\Projects\MyGit\Aspire.Demo\Aspire.Demo.AspireApp\Aspire.Demo.AspireApp.AppHost\bin\Debug\net8.0\OpenTelemetry.Instrumentation.StackExchangeRedis.dll
+C:\Projects\MyGit\Aspire.Demo\Aspire.Demo.AspireApp\Aspire.Demo.AspireApp.AppHost\bin\Debug\net8.0\Pipelines.Sockets.Unofficial.dll
+C:\Projects\MyGit\Aspire.Demo\Aspire.Demo.AspireApp\Aspire.Demo.AspireApp.AppHost\bin\Debug\net8.0\StackExchange.Redis.dll
