@@ -806,7 +806,7 @@
           "Microsoft.AspNetCore.App"
         ]
       },
-      "OpenTelemetry.Instrumentation.GrpcNetClient/1.6.0-beta.2": {
+      "OpenTelemetry.Instrumentation.GrpcNetClient/1.6.0-beta.3": {
         "type": "package",
         "dependencies": {
           "OpenTelemetry": "1.6.0"
@@ -2089,10 +2089,10 @@
         "opentelemetry.instrumentation.aspnetcore.nuspec"
       ]
     },
-    "OpenTelemetry.Instrumentation.GrpcNetClient/1.6.0-beta.2": {
-      "sha512": "q0g+3M8zoISr37kqPIibMiJIU1cIZqH0WeOVN4K+M7MM25ZJoAxHPwqTNY6otNKoBJRHdMiz2qGJEjOxGYcHDg==",
+    "OpenTelemetry.Instrumentation.GrpcNetClient/1.6.0-beta.3": {
+      "sha512": "nzw8D5in6Hg/GbjNlq2FETP4GjSckae9hPGTxAUO7UiOS1lqkyxZJ7f4ntIjFKbiS3wuA9wPfQVH/3CaPV6EvQ==",
       "type": "package",
-      "path": "opentelemetry.instrumentation.grpcnetclient/1.6.0-beta.2",
+      "path": "opentelemetry.instrumentation.grpcnetclient/1.6.0-beta.3",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -2105,7 +2105,7 @@
         "lib/netstandard2.1/OpenTelemetry.Instrumentation.GrpcNetClient.dll",
         "lib/netstandard2.1/OpenTelemetry.Instrumentation.GrpcNetClient.xml",
         "opentelemetry-icon-color.png",
-        "opentelemetry.instrumentation.grpcnetclient.1.6.0-beta.2.nupkg.sha512",
+        "opentelemetry.instrumentation.grpcnetclient.1.6.0-beta.3.nupkg.sha512",
         "opentelemetry.instrumentation.grpcnetclient.nuspec"
       ]
     },
@@ -2415,7 +2415,7 @@
       "OpenTelemetry.Exporter.OpenTelemetryProtocol >= 1.7.0-alpha.1",
       "OpenTelemetry.Extensions.Hosting >= 1.7.0-alpha.1",
       "OpenTelemetry.Instrumentation.AspNetCore >= 1.6.0-beta.2",
-      "OpenTelemetry.Instrumentation.GrpcNetClient >= 1.6.0-beta.2",
+      "OpenTelemetry.Instrumentation.GrpcNetClient >= 1.6.0-beta.3",
       "OpenTelemetry.Instrumentation.Http >= 1.6.0-beta.2",
       "OpenTelemetry.Instrumentation.Runtime >= 1.5.1"
     ]
@@ -2488,7 +2488,7 @@
           },
           "OpenTelemetry.Instrumentation.GrpcNetClient": {
             "target": "Package",
-            "version": "[1.6.0-beta.2, )"
+            "version": "[1.6.0-beta.3, )"
           },
           "OpenTelemetry.Instrumentation.Http": {
             "target": "Package",

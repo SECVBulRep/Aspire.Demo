@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "g854tz5fqcRTQKkFt0lL0iAgebTiCLs4Xsh7hkpbePaI0E24BALFxaGyxQIPrkwUesA6JGZ3K8LfypE9Z93J/w==",
+  "dgSpecHash": "SGanHRHcqvHGmFhjD03UBby+VHaRJ5VjeZX6N4XAVkN2pcna6u7UxsTp7hUJ2A7IihTnoAT9Rn3IAAfddwb+rg==",
   "success": true,
   "projectFilePath": "C:\\Projects\\MyGit\\Aspire.Demo\\Aspire.Demo.AspireApp\\Aspire.Demo.AspireApp.AppHost\\Aspire.Demo.AspireApp.AppHost.csproj",
   "expectedPackageFiles": [
@@ -95,7 +95,7 @@
     "C:\\Users\\Bulat\\.nuget\\packages\\opentelemetry.exporter.opentelemetryprotocol\\1.7.0-alpha.1\\opentelemetry.exporter.opentelemetryprotocol.1.7.0-alpha.1.nupkg.sha512",
     "C:\\Users\\Bulat\\.nuget\\packages\\opentelemetry.extensions.hosting\\1.7.0-alpha.1\\opentelemetry.extensions.hosting.1.7.0-alpha.1.nupkg.sha512",
     "C:\\Users\\Bulat\\.nuget\\packages\\opentelemetry.instrumentation.aspnetcore\\1.6.0-beta.2\\opentelemetry.instrumentation.aspnetcore.1.6.0-beta.2.nupkg.sha512",
-    "C:\\Users\\Bulat\\.nuget\\packages\\opentelemetry.instrumentation.grpcnetclient\\1.6.0-beta.2\\opentelemetry.instrumentation.grpcnetclient.1.6.0-beta.2.nupkg.sha512",
+    "C:\\Users\\Bulat\\.nuget\\packages\\opentelemetry.instrumentation.grpcnetclient\\1.6.0-beta.3\\opentelemetry.instrumentation.grpcnetclient.1.6.0-beta.3.nupkg.sha512",
     "C:\\Users\\Bulat\\.nuget\\packages\\opentelemetry.instrumentation.http\\1.6.0-beta.2\\opentelemetry.instrumentation.http.1.6.0-beta.2.nupkg.sha512",
     "C:\\Users\\Bulat\\.nuget\\packages\\opentelemetry.instrumentation.runtime\\1.5.1\\opentelemetry.instrumentation.runtime.1.5.1.nupkg.sha512",
     "C:\\Users\\Bulat\\.nuget\\packages\\opentelemetry.instrumentation.stackexchangeredis\\1.0.0-rc9.12\\opentelemetry.instrumentation.stackexchangeredis.1.0.0-rc9.12.nupkg.sha512",

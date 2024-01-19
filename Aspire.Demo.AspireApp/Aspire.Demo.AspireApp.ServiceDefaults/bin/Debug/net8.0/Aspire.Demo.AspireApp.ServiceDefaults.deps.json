@@ -13,7 +13,7 @@
           "OpenTelemetry.Exporter.OpenTelemetryProtocol": "1.7.0-alpha.1",
           "OpenTelemetry.Extensions.Hosting": "1.7.0-alpha.1",
           "OpenTelemetry.Instrumentation.AspNetCore": "1.6.0-beta.2",
-          "OpenTelemetry.Instrumentation.GrpcNetClient": "1.6.0-beta.2",
+          "OpenTelemetry.Instrumentation.GrpcNetClient": "1.6.0-beta.3",
           "OpenTelemetry.Instrumentation.Http": "1.6.0-beta.2",
           "OpenTelemetry.Instrumentation.Runtime": "1.5.1"
         },
@@ -421,14 +421,14 @@
           }
         }
       },
-      "OpenTelemetry.Instrumentation.GrpcNetClient/1.6.0-beta.2": {
+      "OpenTelemetry.Instrumentation.GrpcNetClient/1.6.0-beta.3": {
         "dependencies": {
           "OpenTelemetry": "1.7.0-alpha.1"
         },
         "runtime": {
           "lib/net8.0/OpenTelemetry.Instrumentation.GrpcNetClient.dll": {
             "assemblyVersion": "1.0.0.0",
-            "fileVersion": "1.6.0.1059"
+            "fileVersion": "1.6.0.1082"
           }
         }
       },
@@ -799,12 +799,12 @@
       "path": "opentelemetry.instrumentation.aspnetcore/1.6.0-beta.2",
       "hashPath": "opentelemetry.instrumentation.aspnetcore.1.6.0-beta.2.nupkg.sha512"
     },
-    "OpenTelemetry.Instrumentation.GrpcNetClient/1.6.0-beta.2": {
+    "OpenTelemetry.Instrumentation.GrpcNetClient/1.6.0-beta.3": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-q0g+3M8zoISr37kqPIibMiJIU1cIZqH0WeOVN4K+M7MM25ZJoAxHPwqTNY6otNKoBJRHdMiz2qGJEjOxGYcHDg==",
-      "path": "opentelemetry.instrumentation.grpcnetclient/1.6.0-beta.2",
-      "hashPath": "opentelemetry.instrumentation.grpcnetclient.1.6.0-beta.2.nupkg.sha512"
+      "sha512": "sha512-nzw8D5in6Hg/GbjNlq2FETP4GjSckae9hPGTxAUO7UiOS1lqkyxZJ7f4ntIjFKbiS3wuA9wPfQVH/3CaPV6EvQ==",
+      "path": "opentelemetry.instrumentation.grpcnetclient/1.6.0-beta.3",
+      "hashPath": "opentelemetry.instrumentation.grpcnetclient.1.6.0-beta.3.nupkg.sha512"
     },
     "OpenTelemetry.Instrumentation.Http/1.6.0-beta.2": {
       "type": "package",

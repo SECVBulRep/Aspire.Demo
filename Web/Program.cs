@@ -10,7 +10,11 @@ builder.Services.AddRazorComponents()
 builder.AddServiceDefaults();
 
 
-builder.AddRedisOutputCache("redis");
+builder.AddRedisOutputCache("redis", option =>
+{
+    option.HealthChecks = true;
+    option.Tracing = true;
+});
 
 builder.Services.AddHttpClient<WeatherApiClient>(opt =>
 {
@@ -21,6 +25,7 @@ builder.Services.AddHttpClient<WeatherApiClient>(opt =>
 var app = builder.Build();
 
 app.UseOutputCache();
+app.MapDefaultEndpoints();
 
 // Configure the HTTP request pipeline.
 if (!app.Environment.IsDevelopment())
