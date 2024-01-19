@@ -12,7 +12,7 @@ builder.AddServiceDefaults();
 
 builder.Services.AddHttpClient<WeatherApiClient>(opt =>
 {
-    opt.BaseAddress = new Uri("http://localhost:5223/");
+    opt.BaseAddress = new Uri("http://apiservice/");
 });
 
 
