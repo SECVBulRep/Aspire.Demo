@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "Hash": "E7lLI54+mZmnxH1XlwmrKwi+Gc0vLMP757haNlyTifc=",
+  "Hash": "OVut/GG0wncZ8JdTvVqtfC9Qd18+EHOIT7otyyBEci4=",
   "Source": "Aspire.Demo.AspireApp.AppHost",
   "BasePath": "_content/Aspire.Demo.AspireApp.AppHost",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [
     {
-      "Identity": "C:\\Projects\\MyGit\\Aspire.Demo\\Api\\Api.csproj",
+      "Identity": "C:\\Projects\\AspireDemo\\Api\\Api.csproj",
       "Version": 2,
       "Source": "Api",
       "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
@@ -18,7 +18,7 @@
       "AdditionalBuildPropertiesToRemove": "TargetFramework"
     },
     {
-      "Identity": "C:\\Projects\\MyGit\\Aspire.Demo\\Web\\Web.csproj",
+      "Identity": "C:\\Projects\\AspireDemo\\Web\\Web.csproj",
       "Version": 2,
       "Source": "Web",
       "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
@@ -33,17 +33,17 @@
     {
       "Name": "Web\\wwwroot",
       "Source": "Web",
-      "ContentRoot": "C:\\Projects\\MyGit\\Aspire.Demo\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Projects\\AspireDemo\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Projects\\MyGit\\Aspire.Demo\\Aspire.Demo.AspireApp\\Aspire.Demo.AspireApp.AppHost\\obj\\Debug\\net8.0\\jsmodules\\jsmodules.build.manifest.json",
+      "Identity": "C:\\Projects\\AspireDemo\\Aspire.Demo.AspireApp\\Aspire.Demo.AspireApp.AppHost\\obj\\Debug\\net8.0\\jsmodules\\jsmodules.build.manifest.json",
       "SourceId": "Aspire.Demo.AspireApp.AppHost",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Projects\\MyGit\\Aspire.Demo\\Aspire.Demo.AspireApp\\Aspire.Demo.AspireApp.AppHost\\obj\\Debug\\net8.0\\jsmodules\\",
+      "ContentRoot": "C:\\Projects\\AspireDemo\\Aspire.Demo.AspireApp\\Aspire.Demo.AspireApp.AppHost\\obj\\Debug\\net8.0\\jsmodules\\",
       "BasePath": "_content/Aspire.Demo.AspireApp.AppHost",
       "RelativePath": "Aspire.Demo.AspireApp.AppHost.modules.json",
       "AssetKind": "Build",
@@ -59,10 +59,10 @@
       "OriginalItemSpec": "obj\\Debug\\net8.0\\jsmodules\\jsmodules.build.manifest.json"
     },
     {
-      "Identity": "C:\\Projects\\MyGit\\Aspire.Demo\\Web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Web.bundle.scp.css",
+      "Identity": "C:\\Projects\\AspireDemo\\Web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Web.bundle.scp.css",
       "SourceId": "Web",
       "SourceType": "Project",
-      "ContentRoot": "C:\\Projects\\MyGit\\Aspire.Demo\\Web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Projects\\AspireDemo\\Web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/Web",
       "RelativePath": "Web.bundle.scp.css",
       "AssetKind": "All",
@@ -75,13 +75,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Projects\\MyGit\\Aspire.Demo\\Web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Web.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Projects\\AspireDemo\\Web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Web.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Projects\\MyGit\\Aspire.Demo\\Web\\wwwroot\\app.css",
+      "Identity": "C:\\Projects\\AspireDemo\\Web\\wwwroot\\app.css",
       "SourceId": "Web",
       "SourceType": "Project",
-      "ContentRoot": "C:\\Projects\\MyGit\\Aspire.Demo\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Projects\\AspireDemo\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "app.css",
       "AssetKind": "All",
@@ -97,10 +97,10 @@
       "OriginalItemSpec": "wwwroot\\app.css"
     },
     {
-      "Identity": "C:\\Projects\\MyGit\\Aspire.Demo\\Web\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Identity": "C:\\Projects\\AspireDemo\\Web\\wwwroot\\bootstrap\\bootstrap.min.css",
       "SourceId": "Web",
       "SourceType": "Project",
-      "ContentRoot": "C:\\Projects\\MyGit\\Aspire.Demo\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Projects\\AspireDemo\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -116,10 +116,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Projects\\MyGit\\Aspire.Demo\\Web\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "C:\\Projects\\AspireDemo\\Web\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "Web",
       "SourceType": "Project",
-      "ContentRoot": "C:\\Projects\\MyGit\\Aspire.Demo\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Projects\\AspireDemo\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -135,10 +135,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Projects\\MyGit\\Aspire.Demo\\Web\\wwwroot\\favicon.png",
+      "Identity": "C:\\Projects\\AspireDemo\\Web\\wwwroot\\favicon.png",
       "SourceId": "Web",
       "SourceType": "Project",
-      "ContentRoot": "C:\\Projects\\MyGit\\Aspire.Demo\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Projects\\AspireDemo\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "favicon.png",
       "AssetKind": "All",

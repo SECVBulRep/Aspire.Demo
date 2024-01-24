@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2vC8qTY2h15LQZkz+WfYGuTMZjwIlVC/mjfWkdyZnxuh5vKyMF7rTp28PFKwuodNoBVya77ppKTg/BVIOptFLA==",
+  "dgSpecHash": "uAT0F+YS5joXVEUpgXy9mGH0ZUPEtW0abKCvKts7dhzhJ/zBLWQA/IM+N3EIDsw3jx2L+rH00eWH3MN6Rh9hgw==",
   "success": true,
-  "projectFilePath": "C:\\Projects\\MyGit\\Aspire.Demo\\Aspire.Demo.AspireApp\\Aspire.Demo.AspireApp.ServiceDefaults\\Aspire.Demo.AspireApp.ServiceDefaults.csproj",
+  "projectFilePath": "C:\\Projects\\AspireDemo\\Aspire.Demo.AspireApp\\Aspire.Demo.AspireApp.ServiceDefaults\\Aspire.Demo.AspireApp.ServiceDefaults.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Bulat\\.nuget\\packages\\google.protobuf\\3.22.5\\google.protobuf.3.22.5.nupkg.sha512",
     "C:\\Users\\Bulat\\.nuget\\packages\\grpc.core.api\\2.52.0\\grpc.core.api.2.52.0.nupkg.sha512",

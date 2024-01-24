@@ -1,14 +1,18 @@
+using Microsoft.EntityFrameworkCore;
 using Web.Clients;
 using Web.Components;
+using Web.Db;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// Add services to the container.
+
 builder.Services.AddRazorComponents()
     .AddInteractiveServerComponents();
 
 builder.AddServiceDefaults();
 
+builder.AddNpgsqlDbContext<ApplicationContext>("postgresdb", null,
+    optionsBuilder => optionsBuilder.UseNpgsql());
 
 builder.AddRedisOutputCache("redis", option =>
 {
@@ -16,10 +20,7 @@ builder.AddRedisOutputCache("redis", option =>
     option.Tracing = true;
 });
 
-builder.Services.AddHttpClient<WeatherApiClient>(opt =>
-{
-    opt.BaseAddress = new Uri("http://apiservice/");
-});
+builder.Services.AddHttpClient<WeatherApiClient>(opt => { opt.BaseAddress = new Uri("http://apiservice/"); });
 
 
 var app = builder.Build();

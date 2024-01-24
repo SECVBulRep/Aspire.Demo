@@ -11,17 +11,16 @@ using System;
 using System.Reflection;
 
 [assembly: System.Reflection.AssemblyMetadata("dcpclipath", "C:\\Program Files\\dotnet\\packs\\Aspire.Hosting.Orchestration.win-x64\\8.0.0-preview." +
-    "2.23619.3\\tools\\dcp.exe")]
+    "1.23557.2\\tools\\dcp.exe")]
 [assembly: System.Reflection.AssemblyMetadata("dcpextensionpaths", "C:\\Program Files\\dotnet\\packs\\Aspire.Hosting.Orchestration.win-x64\\8.0.0-preview." +
-    "2.23619.3\\tools\\ext")]
+    "1.23557.2\\tools\\ext")]
 [assembly: System.Reflection.AssemblyMetadata("dcpbinpath", "C:\\Program Files\\dotnet\\packs\\Aspire.Hosting.Orchestration.win-x64\\8.0.0-preview." +
-    "2.23619.3\\tools\\ext\\bin")]
-[assembly: System.Reflection.AssemblyMetadata("apphostprojectpath", "C:\\Projects\\MyGit\\Aspire.Demo\\Aspire.Demo.AspireApp\\Aspire.Demo.AspireApp.AppHost" +
-    "")]
+    "1.23557.2\\tools\\ext\\bin")]
+[assembly: System.Reflection.AssemblyMetadata("apphostprojectpath", "C:\\Projects\\AspireDemo\\Aspire.Demo.AspireApp\\Aspire.Demo.AspireApp.AppHost")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("Aspire.Demo.AspireApp.AppHost")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d88ff9df8a9c2c03a61b06d2f752b9a73fca220a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d2590bb8ac466c06bc829cbd4c6cef0a8a12ccfb")]
 [assembly: System.Reflection.AssemblyProductAttribute("Aspire.Demo.AspireApp.AppHost")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Aspire.Demo.AspireApp.AppHost")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

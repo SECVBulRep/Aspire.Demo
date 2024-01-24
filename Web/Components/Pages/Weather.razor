@@ -1,7 +1,10 @@
 ﻿@page "/weather"
 @using Web.Clients
 @using Microsoft.AspNetCore.OutputCaching
+@using Microsoft.EntityFrameworkCore
+@using Web.Db
 @inject WeatherApiClient WeatherApiClient;
+@inject ApplicationContext ApplicationContext;
 
 @attribute [StreamRendering]
 @attribute [OutputCache(Duration = 5)]
@@ -40,6 +43,27 @@ else
         }
         </tbody>
     </table>
+    
+    
+    <table class="table">
+        <thead>
+        <tr>
+            <th>Date</th>
+            <th>Temp. (C)</th>
+         
+        </tr>
+        </thead>
+        <tbody>
+        @foreach (var forecast in ApplicationContext.Users)
+        {
+            <tr>
+                <td>@forecast.Id</td>
+                <td>@forecast.Name</td>
+              
+            </tr>
+        }
+        </tbody>
+    </table>
 }
 
 @code {
@@ -48,7 +72,7 @@ else
     protected override async Task OnInitializedAsync()
     {
         forecasts = await WeatherApiClient.GetForecast();
-        
+
         var startDate = DateOnly.FromDateTime(DateTime.Now);
         var summaries = new[] { "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching" };
         forecasts = Enumerable.Range(1, 5).Select(index => new WeatherForecast
@@ -57,6 +81,14 @@ else
             TemperatureC = Random.Shared.Next(-20, 55),
             Summary = summaries[Random.Shared.Next(summaries.Length)]
         }).ToArray();
+
+
+        for (int i = 0; i < 100; i++)
+        {
+            ApplicationContext.Users.Add(new User { Id = Guid.NewGuid(), Name = "asda" });
+        }
+
+        await ApplicationContext.SaveChangesAsync();
     }
 
 

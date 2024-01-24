@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projects\\MyGit\\Aspire.Demo\\Aspire.Demo.AspireApp\\Aspire.Demo.AspireApp.AppHost\\Aspire.Demo.AspireApp.AppHost.csproj": {}
+    "C:\\Projects\\AspireDemo\\Aspire.Demo.AspireApp\\Aspire.Demo.AspireApp.AppHost\\Aspire.Demo.AspireApp.AppHost.csproj": {}
   },
   "projects": {
-    "C:\\Projects\\MyGit\\Aspire.Demo\\Api\\Api.csproj": {
+    "C:\\Projects\\AspireDemo\\Api\\Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\MyGit\\Aspire.Demo\\Api\\Api.csproj",
+        "projectUniqueName": "C:\\Projects\\AspireDemo\\Api\\Api.csproj",
         "projectName": "Api",
-        "projectPath": "C:\\Projects\\MyGit\\Aspire.Demo\\Api\\Api.csproj",
+        "projectPath": "C:\\Projects\\AspireDemo\\Api\\Api.csproj",
         "packagesPath": "C:\\Users\\Bulat\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\MyGit\\Aspire.Demo\\Api\\obj\\",
+        "outputPath": "C:\\Projects\\AspireDemo\\Api\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
           "C:\\Users\\Bulat\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -27,15 +23,14 @@
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://kznnuget.molot.ru/nexus/repository/WmNuget/": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Projects\\MyGit\\Aspire.Demo\\Aspire.Demo.AspireApp\\Aspire.Demo.AspireApp.ServiceDefaults\\Aspire.Demo.AspireApp.ServiceDefaults.csproj": {
-                "projectPath": "C:\\Projects\\MyGit\\Aspire.Demo\\Aspire.Demo.AspireApp\\Aspire.Demo.AspireApp.ServiceDefaults\\Aspire.Demo.AspireApp.ServiceDefaults.csproj"
+              "C:\\Projects\\AspireDemo\\Aspire.Demo.AspireApp\\Aspire.Demo.AspireApp.ServiceDefaults\\Aspire.Demo.AspireApp.ServiceDefaults.csproj": {
+                "projectPath": "C:\\Projects\\AspireDemo\\Aspire.Demo.AspireApp\\Aspire.Demo.AspireApp.ServiceDefaults\\Aspire.Demo.AspireApp.ServiceDefaults.csproj"
               }
             }
           }
@@ -82,25 +77,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200-preview.23624.5/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Projects\\MyGit\\Aspire.Demo\\Aspire.Demo.AspireApp\\Aspire.Demo.AspireApp.AppHost\\Aspire.Demo.AspireApp.AppHost.csproj": {
+    "C:\\Projects\\AspireDemo\\Aspire.Demo.AspireApp\\Aspire.Demo.AspireApp.AppHost\\Aspire.Demo.AspireApp.AppHost.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\MyGit\\Aspire.Demo\\Aspire.Demo.AspireApp\\Aspire.Demo.AspireApp.AppHost\\Aspire.Demo.AspireApp.AppHost.csproj",
+        "projectUniqueName": "C:\\Projects\\AspireDemo\\Aspire.Demo.AspireApp\\Aspire.Demo.AspireApp.AppHost\\Aspire.Demo.AspireApp.AppHost.csproj",
         "projectName": "Aspire.Demo.AspireApp.AppHost",
-        "projectPath": "C:\\Projects\\MyGit\\Aspire.Demo\\Aspire.Demo.AspireApp\\Aspire.Demo.AspireApp.AppHost\\Aspire.Demo.AspireApp.AppHost.csproj",
+        "projectPath": "C:\\Projects\\AspireDemo\\Aspire.Demo.AspireApp\\Aspire.Demo.AspireApp.AppHost\\Aspire.Demo.AspireApp.AppHost.csproj",
         "packagesPath": "C:\\Users\\Bulat\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\MyGit\\Aspire.Demo\\Aspire.Demo.AspireApp\\Aspire.Demo.AspireApp.AppHost\\obj\\",
+        "outputPath": "C:\\Projects\\AspireDemo\\Aspire.Demo.AspireApp\\Aspire.Demo.AspireApp.AppHost\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
           "C:\\Users\\Bulat\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -109,18 +100,17 @@
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://kznnuget.molot.ru/nexus/repository/WmNuget/": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Projects\\MyGit\\Aspire.Demo\\Api\\Api.csproj": {
-                "projectPath": "C:\\Projects\\MyGit\\Aspire.Demo\\Api\\Api.csproj"
+              "C:\\Projects\\AspireDemo\\Api\\Api.csproj": {
+                "projectPath": "C:\\Projects\\AspireDemo\\Api\\Api.csproj"
               },
-              "C:\\Projects\\MyGit\\Aspire.Demo\\Web\\Web.csproj": {
-                "projectPath": "C:\\Projects\\MyGit\\Aspire.Demo\\Web\\Web.csproj"
+              "C:\\Projects\\AspireDemo\\Web\\Web.csproj": {
+                "projectPath": "C:\\Projects\\AspireDemo\\Web\\Web.csproj"
               }
             }
           }
@@ -136,6 +126,10 @@
           "targetAlias": "net8.0",
           "dependencies": {
             "Aspire.Hosting": {
+              "target": "Package",
+              "version": "[8.0.0-preview.2.23619.3, )"
+            },
+            "Aspire.Npgsql.EntityFrameworkCore.PostgreSQL": {
               "target": "Package",
               "version": "[8.0.0-preview.2.23619.3, )"
             }
@@ -156,25 +150,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200-preview.23624.5/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Projects\\MyGit\\Aspire.Demo\\Aspire.Demo.AspireApp\\Aspire.Demo.AspireApp.ServiceDefaults\\Aspire.Demo.AspireApp.ServiceDefaults.csproj": {
+    "C:\\Projects\\AspireDemo\\Aspire.Demo.AspireApp\\Aspire.Demo.AspireApp.ServiceDefaults\\Aspire.Demo.AspireApp.ServiceDefaults.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\MyGit\\Aspire.Demo\\Aspire.Demo.AspireApp\\Aspire.Demo.AspireApp.ServiceDefaults\\Aspire.Demo.AspireApp.ServiceDefaults.csproj",
+        "projectUniqueName": "C:\\Projects\\AspireDemo\\Aspire.Demo.AspireApp\\Aspire.Demo.AspireApp.ServiceDefaults\\Aspire.Demo.AspireApp.ServiceDefaults.csproj",
         "projectName": "Aspire.Demo.AspireApp.ServiceDefaults",
-        "projectPath": "C:\\Projects\\MyGit\\Aspire.Demo\\Aspire.Demo.AspireApp\\Aspire.Demo.AspireApp.ServiceDefaults\\Aspire.Demo.AspireApp.ServiceDefaults.csproj",
+        "projectPath": "C:\\Projects\\AspireDemo\\Aspire.Demo.AspireApp\\Aspire.Demo.AspireApp.ServiceDefaults\\Aspire.Demo.AspireApp.ServiceDefaults.csproj",
         "packagesPath": "C:\\Users\\Bulat\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\MyGit\\Aspire.Demo\\Aspire.Demo.AspireApp\\Aspire.Demo.AspireApp.ServiceDefaults\\obj\\",
+        "outputPath": "C:\\Projects\\AspireDemo\\Aspire.Demo.AspireApp\\Aspire.Demo.AspireApp.ServiceDefaults\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
           "C:\\Users\\Bulat\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -183,8 +173,7 @@
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://kznnuget.molot.ru/nexus/repository/WmNuget/": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
@@ -254,25 +243,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200-preview.23624.5/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Projects\\MyGit\\Aspire.Demo\\Web\\Web.csproj": {
+    "C:\\Projects\\AspireDemo\\Web\\Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\MyGit\\Aspire.Demo\\Web\\Web.csproj",
+        "projectUniqueName": "C:\\Projects\\AspireDemo\\Web\\Web.csproj",
         "projectName": "Web",
-        "projectPath": "C:\\Projects\\MyGit\\Aspire.Demo\\Web\\Web.csproj",
+        "projectPath": "C:\\Projects\\AspireDemo\\Web\\Web.csproj",
         "packagesPath": "C:\\Users\\Bulat\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\MyGit\\Aspire.Demo\\Web\\obj\\",
+        "outputPath": "C:\\Projects\\AspireDemo\\Web\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
           "C:\\Users\\Bulat\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -281,15 +266,14 @@
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://kznnuget.molot.ru/nexus/repository/WmNuget/": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Projects\\MyGit\\Aspire.Demo\\Aspire.Demo.AspireApp\\Aspire.Demo.AspireApp.ServiceDefaults\\Aspire.Demo.AspireApp.ServiceDefaults.csproj": {
-                "projectPath": "C:\\Projects\\MyGit\\Aspire.Demo\\Aspire.Demo.AspireApp\\Aspire.Demo.AspireApp.ServiceDefaults\\Aspire.Demo.AspireApp.ServiceDefaults.csproj"
+              "C:\\Projects\\AspireDemo\\Aspire.Demo.AspireApp\\Aspire.Demo.AspireApp.ServiceDefaults\\Aspire.Demo.AspireApp.ServiceDefaults.csproj": {
+                "projectPath": "C:\\Projects\\AspireDemo\\Aspire.Demo.AspireApp\\Aspire.Demo.AspireApp.ServiceDefaults\\Aspire.Demo.AspireApp.ServiceDefaults.csproj"
               }
             }
           }
@@ -304,6 +288,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Aspire.Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[8.0.0-preview.2.23619.3, )"
+            },
             "Aspire.StackExchange.Redis.OutputCaching": {
               "target": "Package",
               "version": "[8.0.0-preview.2.23619.3, )"
@@ -328,7 +316,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200-preview.23624.5/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
